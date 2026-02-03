@@ -11,6 +11,7 @@ const features = [
   "Controle de Evolução de Treino",
   "Preparação para TAF (Teste de Aptidão Física)",
   "Acesso livre às turmas e treinos da equipe",
+  "Todas as idades e categorias",
 ];
 
 const AssessoriaSection = () => {

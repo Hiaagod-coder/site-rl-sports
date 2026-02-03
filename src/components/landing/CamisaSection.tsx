@@ -19,7 +19,7 @@ const shirts = [
     price: "69,99"
   },
   {
-    id: 2,
+    id: 2, 
     image: camisaImage2,
     name: "CAMISA DE TREINO",
     type: 'CAMISA ATLETA',

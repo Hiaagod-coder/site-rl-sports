@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 import { ShoppingBag, Trophy, Flag, Medal, Star, ChevronLeft, ChevronRight, Zap } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import camisaAtleta from "@/assets/camisa-atleta.png";
-import camisaImage2 from "@/assets/camisaimage2.png";
+import camisaImage2 from "@/assets/camisa-treino.png";
 import AnimatedSection from "@/components/ui/AnimatedSection";
 import GlowingOrb from "@/components/ui/GlowingOrb";
 import ParticleField from "@/components/ui/ParticleField";
